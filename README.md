@@ -1,10 +1,10 @@
 
 
-MasteDetalis_MVC_DataFirst
-Overview
+# MasteDetalis_MVC_DataFirst
+
 MasteDetalis_MVC_DataFirst is an ASP.NET MVC application using a data-first approach to manage master-detail data relationships. This project demonstrates how to efficiently handle complex data scenarios through CRUD operations with the MVC architecture.
 
-Features
+# Features
 Master-Detail Management: Seamlessly manage master-detail data relationships.
 CRUD Operations: Create, Read, Update, and Delete data with a user-friendly interface.
 Data-First Approach: Utilizes Entity Framework’s data-first approach for database integration.
@@ -12,7 +12,7 @@ Prerequisites
 .NET SDK (version X.X or higher)
 Visual Studio or any compatible IDE
 SQL Server or another compatible database
-Getting Started
+# Getting Started
 Clone the Repository
 
 bash
@@ -37,7 +37,7 @@ Access the Application
 
 Open your web browser and go to http://localhost:5000 to start using the application.
 
-Usage
+# Usage
 Master Data: Manage primary data entries.
 Detail Data: Link and manage detailed entries related to master data.
 Contributing
