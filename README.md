@@ -1,5 +1,4 @@
 
-Certainly! Here’s a concise README file for your project:
 
 MasteDetalis_MVC_DataFirst
 Overview
